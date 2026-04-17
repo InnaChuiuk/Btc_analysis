@@ -1,4 +1,5 @@
 # Btc_analysis
+## 8 years of Bitcoin data. One question: does market sentiment actually predict returns? Here's what the data says.
 ## Project Overview
 This project explores the correlation between market sentiment (using the **Fear & Greed Index**) and the actual price dynamics of **Bitcoin (BTC)**. 
 The primary goal of the analysis is to determine whether extreme market sentiments serve as reliable indicators for predicting returns across various 
